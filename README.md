@@ -1,0 +1,2 @@
+# discordBotWebhookTest
+webhookをフォーラムとしてdiscordに投稿するbotのテスト
